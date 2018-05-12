@@ -1,0 +1,31 @@
+_repo: The-Book-of-the-Aquarium-and-Water-Cabinetand-Marine-Life_40701
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40701-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hibberd, Shirley
+    alias: Hibberd, James Shirley
+    birthdate: 1825
+    deathdate: 1890
+    gutenberg_agent_id: '40768'
+    url: http://www.gutenberg.org/2009/agents/40768
+description: ''
+gutenberg_issued: '2012-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40701'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Aquatic plants'
+- !lcsh 'Aquarium plants'
+- !lcsh 'Aquariums'
+title: "The Book of the Aquarium and Water Cabinet\r\nor Practical Instructions on\
+  \ the Formation, Stocking, and Mangement, in all Seasons, of Collections of Fresh\
+  \ Water and Marine Life"
+url: http://www.gutenberg.org/ebooks/40701
